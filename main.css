@@ -31,19 +31,19 @@ header:after {
 
 }
 
-.container3 {
-    
-    background-color: #00d17c;
-    height: 300px;
-    
-}
-
 .container2 {
     
     width: 100%;
     height: auto;
     padding: 1%;
-    padding-bottom: 300px;
+    padding-bottom: 250px;
+    
+}
+
+.container3 {
+    
+    background-color: #00d17c;
+    height: 300px;
     
 }
 
