@@ -1,3 +1,5 @@
+/* Official colour scheme: #00d17c */
+
 body {
     
     margin: 0;
@@ -7,29 +9,38 @@ body {
     
 }
 
-header {
-    
-    margin: 0;
-    
-}
-
-.bookcase-logo {
-    
-    margin-top: 20%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.logo {
     
     max-width: 100%;
     height: 150px;
     
 }
 
+.center {
+    
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%)
+    
+}
+
 .content {
     
+    margin-top: 0;
     color: white;
     font-family: sans-serif;
     text-align: center;
-    font-size: 12px;
+    font-size: 20px;
+    
+}
+
+.countdown {
+    
+    margin-top: 50px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
     
 }
