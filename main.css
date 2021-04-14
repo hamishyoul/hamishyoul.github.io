@@ -4,6 +4,7 @@ body {
     
     margin: 0;
     background-color: #00d17c;
+    background-image: url(Media/grid-background.png);
     overflow-x: hidden;
     overflow-y: hidden;
     
